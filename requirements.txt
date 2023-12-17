@@ -1,0 +1,5 @@
+click==8.0.1
+pytest==6.2.4
+
+
+#pip install -r requirements.txt
